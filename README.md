@@ -1,5 +1,5 @@
-#A simple React app made using material UI.
-**Just enter N number of most frequent words to be rendered in the table.**
+A simple React app made using material UI.
+**Just enter N in input, the number of most frequent words to be rendered in the table and click Fetch to see the working.**
 
 A screenshot of App: 
 
