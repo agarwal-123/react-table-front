@@ -124,7 +124,7 @@ export default function CustomPaginationActionsTable() {
     console.log(n, "rf");
     // var resp = await fetch("http://localhost:3000/");
     // var ans = await resp.json();
-    fetch("http://localhost:3000/")
+    fetch("https://node-table-api.herokuapp.com/")
       .then((response) => response.json())
       .then((resp) => {
         console.log(resp);
